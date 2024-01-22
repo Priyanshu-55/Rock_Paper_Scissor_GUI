@@ -4,7 +4,7 @@
 import random
 from tkinter import *
 
-#******************************************
+#*****************************************
 #window screen
 mn=Tk()
 mn.config(bg='#856ff8')
